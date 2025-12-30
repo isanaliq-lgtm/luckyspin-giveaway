@@ -1,0 +1,7 @@
+{
+  "name": "LuckySpin AI - Professional Giveaway Wheel",
+  "description": "A feature-rich, interactive spin-the-wheel application for lucky draws with AI-powered prize suggestions, confetti celebrations, and fully customizable segments.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
